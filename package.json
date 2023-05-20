@@ -7,7 +7,8 @@
     "prepare": "husky install",
     "start": "parcel",
     "build": "parcel build",
-    "lint": "eslint ./src"
+    "lint": "eslint ./src",
+    "lint:staged": "lint-staged"
   },
   "keywords": [],
   "author": "Furkan Emin Can",
