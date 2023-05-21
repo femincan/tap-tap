@@ -2,11 +2,10 @@ import { createGlobalStyle } from 'styled-components';
 
 const GlobalStyle = createGlobalStyle`
   :root {
-    --space-cadet: #2b2d42;
-    --cool-gray: #8d99ae;
-    --antiflash-white: #edf2f4;
-    --red-pantone: #ef233c;
-    --fire-engine-red: #d90429;
+    --oxford-blue: #14213d;
+    --orange-web: #fca311;
+    --platinum: #e5e5e5;
+    --white: #ffffff;
   }
   
   * {
@@ -25,7 +24,7 @@ const GlobalStyle = createGlobalStyle`
 
   body {
     font-size: 1.6rem;
-    color: var(--antiflash-white)
+    color: var(--white)
   }
 
   #app {

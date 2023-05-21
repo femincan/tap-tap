@@ -3,7 +3,8 @@ import { PropsWithChildren } from 'react';
 
 const OuterContainer = styled.div`
   height: 100%;
-  background-color: var(--space-cadet);
+  background-color: var(--oxford-blue);
+  padding: 4rem 0 2rem;
 `;
 
 const InnerContainer = styled.div`
