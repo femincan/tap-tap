@@ -16,6 +16,7 @@ const InnerContainer = styled.div`
   justify-content: center;
   align-items: center;
   gap: 2rem;
+  text-align: center;
 `;
 
 const Container = ({ children }: PropsWithChildren) => (
