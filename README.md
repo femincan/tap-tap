@@ -4,7 +4,8 @@
 
 A drum machine app created with React, Parcel and Styled Components for the second project of the Front End Development Libraries Curriculum of FreeCodeCamp.
 
-![Application Screenshot]()
+![Application Screenshot](https://github.com/femincan/tap-tap/assets/78358128/4f21d58e-1a91-436b-b885-23c14cf74a77)
+
 
 ## Table of Contents
 
