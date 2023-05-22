@@ -4,7 +4,7 @@ const key3 = new URL('./Heater-3.mp3', import.meta.url);
 const key4 = new URL('./Heater-4.mp3', import.meta.url);
 const key5 = new URL('./Clap.mp3', import.meta.url);
 const key6 = new URL('./Open-HH.mp3', import.meta.url);
-const key7 = new URL("./Kick-n'-hat.mp3", import.meta.url);
+const key7 = new URL('./Kick-n-Hat.mp3', import.meta.url);
 const key8 = new URL('./Kick.mp3', import.meta.url);
 const key9 = new URL('./Closed-HH.mp3', import.meta.url);
 
