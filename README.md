@@ -16,7 +16,7 @@ A drum machine app created with React, Parcel and Styled Components for the seco
 
 ## General Info
 
-The app has Nine buttons representing different drum sounds. The user can use keyboard for playing sounds (regardless of caps lock status)
+The app has nine buttons representing different drum sounds. Keyboard can be used for playing sounds (regardless of caps lock status).
 
 ## Technologies
 
