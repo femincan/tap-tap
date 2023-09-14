@@ -25,7 +25,7 @@ The app has nine buttons representing different drum sounds. Keyboard can be use
 
 ## How To Use
 
-To clone and run this application, you'll need Git, Node.js, and pnpm globally installed on your computer. From your command line:
+To clone and run this application, you'll need Git, Node.js, and npm globally installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
@@ -35,13 +35,13 @@ git clone https://github.com/femincan/tap-tap.git
 cd tap-tap
 
 # Install dependencies
-pnpm install
+npm install
 ```
 
 Now, you can run the app:
 
 ```bash
-pnpm start
+npm start
 ```
 
 ## License
